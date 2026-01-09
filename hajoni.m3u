@@ -1,0 +1,144 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="Undefined",SBS CJB
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Undefined",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Undefined",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="HLANDTV.kr" tvg-logo="https://i.imgur.com/lthyx2P.png" group-title="Undefined",MBC
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
+
+
+#EXTINF:0 tvg-ID="C00551.tving" tvg-name="tvN (tving)" group-title="지상파" tvg-logo="",tvN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00551&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00593.tving" tvg-name="YTN (tving)" group-title="종편/보도" tvg-logo="",YTN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00593&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01582.tving" tvg-name="JTBC (tving)" group-title="종편/보도" tvg-logo="",JTBC (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01582&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01723.tving" tvg-name="연합뉴스TV (tving)" group-title="종편/보도" tvg-logo="",연합뉴스TV (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01723&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01581.tving" tvg-name="TV CHOSUN (tving)" group-title="종편/보도" tvg-logo="",TV CHOSUN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01581&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01583.tving" tvg-name="채널A (tving)" group-title="종편/보도" tvg-logo="",채널A (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01583&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00708.tving" tvg-name="MBN (tving)" group-title="종편/보도" tvg-logo="",MBN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00708&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C07381.tving" tvg-name="OCN (tving)" group-title="영화" tvg-logo="",OCN (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C07381&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C04601.tving" tvg-name="OCN Movies (tving)" group-title="영화" tvg-logo="",OCN Movies (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C04601&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C07382.tving" tvg-name="OCN Movies2 (tving)" group-title="영화" tvg-logo="",OCN Movies2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C07382&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01141.tving" tvg-name="tvN SHOW (tving)" group-title="드라마/예능" tvg-logo="",tvN SHOW (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01141&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C51258.tving" tvg-name="tvN STORY (tving)" group-title="드라마/예능" tvg-logo="",tvN STORY (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C51258&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C22041.tving" tvg-name="JTBC4 (tving)" group-title="드라마/예능" tvg-logo="",JTBC4 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C22041&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01143.tving" tvg-name="tvN DRAMA (tving)" group-title="드라마/예능" tvg-logo="",tvN DRAMA (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01143&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00579.tving" tvg-name="Mnet (tving)" group-title="드라마/예능" tvg-logo="",Mnet (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00579&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C15741.tving" tvg-name="JTBC2 (tving)" group-title="드라마/예능" tvg-logo="",JTBC2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C15741&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00585.tving" tvg-name="TV CHOSUN 2 (tving)" group-title="드라마/예능" tvg-logo="",TV CHOSUN 2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00585&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C17142.tving" tvg-name="MBN 플러스 (tving)" group-title="드라마/예능" tvg-logo="",MBN 플러스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C17142&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C17141.tving" tvg-name="채널A플러스 (tving)" group-title="드라마/예능" tvg-logo="",채널A플러스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C17141&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00611.tving" tvg-name="LIFETIME (tving)" group-title="드라마/예능" tvg-logo="",LIFETIME (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00611&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C51263.tving" tvg-name="국회방송(NATV) (tving)" group-title="시사/교양" tvg-logo="",국회방송(NATV) (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C51263&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C15347.tving" tvg-name="YTN사이언스 (tving)" group-title="시사/교양" tvg-logo="",YTN사이언스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C15347&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C01101.tving" tvg-name="YTN2 (tving)" group-title="시사/교양" tvg-logo="",YTN2 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C01101&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C17341.tving" tvg-name="히스토리 (tving)" group-title="시사/교양" tvg-logo="",히스토리 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C17341&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C05441.tving" tvg-name="ANIBOX (tving)" group-title="애니/키즈" tvg-logo="",ANIBOX (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C05441&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C04042.tving" tvg-name="애니맥스 (tving)" group-title="애니/키즈" tvg-logo="",애니맥스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C04042&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C06941.tving" tvg-name="투니버스 (tving)" group-title="애니/키즈" tvg-logo="",투니버스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C06941&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00544.tving" tvg-name="중화TV (tving)" group-title="해외채널" tvg-logo="",중화TV (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00544&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C51851.tving" tvg-name="2025 KBO 리그 (tving)" group-title="-" tvg-logo="",2025 KBO 리그 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C51851&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C51404.tving" tvg-name="tvN SPORTS (tving)" group-title="-" tvg-logo="",tvN SPORTS (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C51404&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52328.tving" tvg-name="JTBC news NOW (tving)" group-title="-" tvg-logo="",JTBC news NOW (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52328&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52300.tving" tvg-name="JTBC news 아카이브 (tving)" group-title="-" tvg-logo="",JTBC news 아카이브 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52300&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52302.tving" tvg-name="TV CHOSUN NEWS24 (tving)" group-title="-" tvg-logo="",TV CHOSUN NEWS24 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52302&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52299.tving" tvg-name="MBC 라디오 시사 (tving)" group-title="-" tvg-logo="",MBC 라디오 시사 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52299&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C00901.tving" tvg-name="애니플러스 (tving)" group-title="-" tvg-logo="",애니플러스 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C00901&stype=onair&pvrmode=pvr
+#EXTINF:0 tvg-ID="C52286.tving" tvg-name="KBS NEWS 24 (tving)" group-title="-" tvg-logo="",KBS NEWS 24 (tving)
+plugin://plugin.video.tvingm/?mode=LIVE&mediacode=C52286&stype=onair&pvrmode=pvr
+
+
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Series",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="Undefined",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Kids",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Undefined",KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="Undefined",KBS LiveCam 독도
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Undefined",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+
+#EXTINF:-1 tvg-id="MBCNet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net
+http://mytv.dothome.co.kr/ch/catv/28.php
+
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="News",GugakTV 국악방송
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Undefined",국방 TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",JCN TV
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
+
+#EXTINF:-1 tvg-id="KCTV.kr" tvg-logo="https://i.imgur.com/IHkZpaI.png" group-title="Undefined",KCTV 광주
+http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KTV.kr" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative",Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBS.kr" tvg-logo="https://i.imgur.com/pOSroOE.png" group-title="Undefined",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="HLQSDTV.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS 경인TV
+https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OUN.kr" tvg-logo="https://i.imgur.com/7s6JtcU.png" group-title="Undefined",OUN
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLDGDTV.kr" tvg-logo="https://i.imgur.com/gaBq1Lz.png" group-title="Undefined",SBS KNN
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WBCTV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="Undefined",WBC TV
+https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="Undefined",EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="Undefined",EBS 2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="Education",EBS E
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="Kids",EBS kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="Undefined",EBS+ 1
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="Education",EBS+ 2
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
